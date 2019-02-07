@@ -6,6 +6,7 @@
     font-family: 'Monoton', cursive;
     font-size: 48px;
     color: #54ff32;
+    background-image: url(/Assets/images/greenKeyboard.jpeg)
   
   
 }
@@ -13,7 +14,8 @@
 .panel {
     font-size: 22px;
     font-family: 'Monoton', cursive;
-    color: black
+
+   
   
 }
 
@@ -45,8 +47,8 @@
 
 button {
     padding: 10px;
-    color: rgb(0, 184, 129);
-    border-radius: 10px;
+    color:black;
+    border-radius: 20px;
 }
 
 .topic {
@@ -78,13 +80,13 @@ label {
     height: 5%;
     width: 15%;
     background-color: rgb(31, 255, 31);
-   background-image: url(/Assets/images/vintagegame.jpg)
+   
 }
 
 /*where gifs will show and appeared gifs*/
 
 .jumbotron {
-    background-color: black;
+    color: #54ff32;
    
 }
 
@@ -94,6 +96,7 @@ label {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    
 }
 
 .item p {
