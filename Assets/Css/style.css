@@ -1,0 +1,102 @@
+/*top text styling*/
+
+
+.mainTitle {
+    
+    font-family: 'Monoton', cursive;
+    font-size: 48px;
+    color: #54ff32;
+  
+  
+}
+
+.panel {
+    font-size: 22px;
+    font-family: 'Monoton', cursive;
+    color: black
+  
+}
+
+
+#addButton {
+    margin-left: auto;
+    margin-right: auto;
+    margin: 10px;
+    background-color: white;
+
+}
+
+
+.text {
+    margin-top: 3%;
+}
+
+/*gif div*/
+
+#gifForm {
+    text-align: center;
+}
+
+#startingButtons {
+    margin: 5%;
+    text-align: center;
+
+}
+
+button {
+    padding: 10px;
+    color: rgb(0, 184, 129);
+    border-radius: 10px;
+}
+
+.topic {
+    font-family: 'Bungee', ;
+}
+
+
+/*form*/
+
+form {
+    text-align: center;
+    font-family: 'Bangers', cursive;
+}
+
+#gif-input {
+    margin: 2%;
+}
+
+label {
+    font-family: 'Bangers', cursive;
+}
+
+#addGif {
+    text-align: center;
+    font-family: 'Bangers', cursive;  
+    padding: 3%;
+    border: 3px solid black;
+    border:100%;
+    height: 5%;
+    width: 15%;
+    background-color: rgb(31, 255, 31);
+   background-image: url(/Assets/images/vintagegame.jpg)
+}
+
+/*where gifs will show and appeared gifs*/
+
+.jumbotron {
+    background-color: black;
+   
+}
+
+.myJumbotron  {
+    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.item p {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+}
